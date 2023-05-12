@@ -1,0 +1,18 @@
+.site-layout {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+
+  &__direct-container {
+    padding: 15px;
+    width: 640px;
+    border: 1px solid;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 1);
+
+    @media only screen and (max-width: 767px) {
+      width: 99%;
+      min-height: 90%;
+    }
+  }
+}
