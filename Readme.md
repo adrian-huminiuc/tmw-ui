@@ -21,4 +21,4 @@ npm run dev
 npm test
 ```
 
-NOTE: Requires the tmw-api project to be already running
+NOTE: Requires the tmw-api project to be already running (https://github.com/adrian-huminiuc/tmw-api the companion repository )
